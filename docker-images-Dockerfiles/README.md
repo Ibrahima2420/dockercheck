@@ -1,4 +1,4 @@
-## 1. Docker - pyproject
+## Docker - pyproject
 
 * **Build Image:** `docker build -t my-python-app:v1 .`
 

@@ -1,4 +1,4 @@
-## 1. Docker Basics & CLI
+## Docker Basics & CLI
 
 * **Pull Image:** `docker pull nginx`
 
