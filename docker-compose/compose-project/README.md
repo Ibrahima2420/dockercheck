@@ -1,4 +1,4 @@
-## Docker compose
+## Docker Compose
 
 * **launch the stack:** `docker-compose up -d`
 

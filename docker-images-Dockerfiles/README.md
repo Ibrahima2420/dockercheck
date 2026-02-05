@@ -5,3 +5,5 @@
 * **Run Container:** `docker run -p 5000:5000 my-python-app:v1`
 
 * **Inspect Image Layers:** `docker history my-python-app:v1`
+
+* **pull image from Docker hub:** `* **docker pull my-python-app:v1`
